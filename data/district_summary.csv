@@ -1,0 +1,16 @@
+district,district_pcode,area_km2,mean_elev_m,province,station,station_id,station_elev_m,dominant_land_cover,dist_major_river_km,annual_precip_mm,monsoon_jjas_precip_mm,annual_tmean_c,annual_rh_pct
+Morang,NP0105,1821.0,269.0,Koshi,Biratnagar,44478099999,71.93,cropland,23.16,,1608.0,,73.4
+Rupandehi,NP0548,1308.0,152.0,Lumbini,Bhairahawa / Gautam Buddha,44438099999,109.11,cropland,21.03,,,25.4,69.0
+Bara,NP0233,1273.0,175.0,Madhesh,Simara,44449099999,137.16,tree_cover,41.47,,1091.0,25.0,75.2
+Banke,NP0557,1891.0,256.0,Lumbini,Nepalgunj Airport,44418099999,165.0,cropland,5.95,,,25.4,70.5
+Kailali,NP0771,3312.0,457.0,Sudur Paschim,Dhangadhi (Atariya),44409099999,187.0,cropland,28.62,,1358.0,,71.0
+Doti,NP0770,2067.0,1505.0,Sudur Paschim,Dipayal,44406099999,617.0,tree_cover,0.0,,657.0,23.5,70.5
+Dang,NP0556,3072.0,622.0,Lumbini,Dang,44429099999,634.0,tree_cover,21.07,,1152.0,23.2,69.6
+Surkhet,NP0659,2501.0,902.0,Karnali,Surkhet,44416099999,720.0,tree_cover,7.21,,1077.0,23.0,71.3
+Kaski,NP0439,2088.0,2615.0,Gandaki,Pokhara,44434099999,826.61,tree_cover,14.69,,2794.0,22.2,74.0
+Dhankuta,NP0107,898.0,1056.0,Koshi,Dhankuta,44477099999,1210.0,tree_cover,4.62,,420.0,20.9,75.3
+Kathmandu,NP0327,413.0,1548.0,Bagmati,Tribhuvan Intl,44454099999,1338.07,built_up,26.95,1610.4,1268.0,19.9,71.4
+Okhaldhunga,NP0113,1075.0,1579.0,Koshi,Okhaldhunga,44462099999,1720.0,tree_cover,9.81,,1255.0,,77.8
+Taplejung,NP0101,3630.0,3710.0,Koshi,Taplejung,44474099999,1732.0,tree_cover,2.46,,1303.0,17.1,75.3
+Dadeldhura,NP0773,1516.0,1275.0,Sudur Paschim,Dadeldhura,44404099999,1848.0,tree_cover,17.62,,795.0,,67.9
+Jumla,NP0663,2565.0,3524.0,Karnali,Jumla,44424099999,2300.0,grassland,1.62,,397.0,14.0,55.2

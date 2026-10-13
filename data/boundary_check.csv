@@ -1,0 +1,3 @@
+layer,features,expected_features,duplicate_names,invalid_geometries,stations_outside_every_district,surveyed_stations_in_wrong_district,crs,verdict
+geoBoundaries gbOpen ADM2,75,77,2,0,1,1,EPSG:4326,reject
+OCHA COD-AB ADM2 (Survey Dept.),77,77,0,0,0,0,EPSG:4326,pass
