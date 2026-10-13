@@ -1,0 +1,1621 @@
+station_id,month,variable,unit,value,days_in_month,days_observed,longest_gap_days,status,rule
+44404099999,2022-01,precipitation,mm,53.4,31,28,2,valid,needs >= 28 of 31 days
+44404099999,2022-01,temperature,degC,7.97,31,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-01,relative_humidity,%,78.45,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-02,precipitation,mm,41.7,28,26,1,valid,needs >= 26 of 28 days
+44404099999,2022-02,temperature,degC,9.76,28,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-02,relative_humidity,%,67.87,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-03,precipitation,mm,1.5,31,29,1,valid,needs >= 28 of 31 days
+44404099999,2022-03,temperature,degC,,31,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-03,relative_humidity,%,52.32,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-04,precipitation,mm,8.1,30,30,0,valid,needs >= 27 of 30 days
+44404099999,2022-04,temperature,degC,21.08,30,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-04,relative_humidity,%,42.97,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-05,precipitation,mm,,31,24,3,incomplete,needs >= 28 of 31 days
+44404099999,2022-05,temperature,degC,19.94,31,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-05,relative_humidity,%,65.98,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-06,precipitation,mm,96.0,30,27,1,valid,needs >= 27 of 30 days
+44404099999,2022-06,temperature,degC,23.32,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-06,relative_humidity,%,64.51,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-07,precipitation,mm,,31,18,5,incomplete,needs >= 28 of 31 days
+44404099999,2022-07,temperature,degC,,31,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-07,relative_humidity,%,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-08,precipitation,mm,180.1,31,30,1,valid,needs >= 28 of 31 days
+44404099999,2022-08,temperature,degC,22.05,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-08,relative_humidity,%,86.49,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-09,precipitation,mm,,30,25,3,incomplete,needs >= 27 of 30 days
+44404099999,2022-09,temperature,degC,,30,17,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-09,relative_humidity,%,88.4,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-10,precipitation,mm,285.8,31,30,1,valid,needs >= 28 of 31 days
+44404099999,2022-10,temperature,degC,16.99,31,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-10,relative_humidity,%,75.81,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44404099999,2022-11,temperature,degC,14.43,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-11,relative_humidity,%,65.39,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44404099999,2022-12,temperature,degC,12.22,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2022-12,relative_humidity,%,55.44,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-01,precipitation,mm,33.6,31,30,1,valid,needs >= 28 of 31 days
+44404099999,2023-01,temperature,degC,10.18,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-01,relative_humidity,%,60.83,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44404099999,2023-02,temperature,degC,,28,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-02,relative_humidity,%,54.07,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-03,precipitation,mm,,31,24,5,incomplete,needs >= 28 of 31 days
+44404099999,2023-03,temperature,degC,,31,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-03,relative_humidity,%,,31,24,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-04,precipitation,mm,,30,22,3,incomplete,needs >= 27 of 30 days
+44404099999,2023-04,temperature,degC,,30,16,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-04,relative_humidity,%,51.54,30,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44404099999,2023-05,temperature,degC,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-05,relative_humidity,%,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-06,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44404099999,2023-06,temperature,degC,,30,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-06,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-07,precipitation,mm,336.7,31,31,0,valid,needs >= 28 of 31 days
+44404099999,2023-07,temperature,degC,21.53,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-07,relative_humidity,%,90.38,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-08,precipitation,mm,211.0,31,31,0,valid,needs >= 28 of 31 days
+44404099999,2023-08,temperature,degC,21.5,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-08,relative_humidity,%,88.93,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-09,precipitation,mm,157.8,30,28,2,valid,needs >= 27 of 30 days
+44404099999,2023-09,temperature,degC,21.67,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-09,relative_humidity,%,82.84,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-10,precipitation,mm,11.7,31,30,1,valid,needs >= 28 of 31 days
+44404099999,2023-10,temperature,degC,17.76,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-10,relative_humidity,%,70.69,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44404099999,2023-11,temperature,degC,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44404099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44404099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44404099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44404099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44404099999,2024-04,temperature,degC,20.0,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-04,relative_humidity,%,40.47,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44404099999,2024-05,temperature,degC,21.83,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-05,relative_humidity,%,58.82,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-06,precipitation,mm,114.3,30,30,0,valid,needs >= 27 of 30 days
+44404099999,2024-06,temperature,degC,23.73,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-06,relative_humidity,%,64.94,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44404099999,2024-07,temperature,degC,,31,13,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-08,precipitation,mm,,31,19,9,incomplete,needs >= 28 of 31 days
+44404099999,2024-08,temperature,degC,,31,16,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-08,relative_humidity,%,,31,19,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44404099999,2024-09,temperature,degC,,30,14,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44404099999,2024-10,temperature,degC,,31,19,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44404099999,2024-11,temperature,degC,,30,11,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44404099999,2024-12,temperature,degC,10.62,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44404099999,2024-12,relative_humidity,%,59.27,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-01,precipitation,mm,56.3,31,28,2,valid,needs >= 28 of 31 days
+44406099999,2022-01,temperature,degC,14.63,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-01,relative_humidity,%,79.25,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-02,precipitation,mm,,28,24,1,incomplete,needs >= 26 of 28 days
+44406099999,2022-02,temperature,degC,15.19,28,23,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-02,relative_humidity,%,74.12,28,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-03,precipitation,mm,0.0,31,29,1,valid,needs >= 28 of 31 days
+44406099999,2022-03,temperature,degC,22.26,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-03,relative_humidity,%,60.46,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-04,precipitation,mm,18.0,30,29,1,valid,needs >= 27 of 30 days
+44406099999,2022-04,temperature,degC,26.77,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-04,relative_humidity,%,47.3,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44406099999,2022-05,temperature,degC,27.21,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-05,relative_humidity,%,59.86,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-06,precipitation,mm,77.2,30,28,1,valid,needs >= 27 of 30 days
+44406099999,2022-06,temperature,degC,30.92,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-06,relative_humidity,%,57.2,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44406099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-08,precipitation,mm,166.1,31,30,1,valid,needs >= 28 of 31 days
+44406099999,2022-08,temperature,degC,29.69,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-08,relative_humidity,%,76.33,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-09,precipitation,mm,221.3,30,27,3,valid,needs >= 27 of 30 days
+44406099999,2022-09,temperature,degC,27.82,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-09,relative_humidity,%,79.89,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-10,precipitation,mm,257.0,31,30,1,valid,needs >= 28 of 31 days
+44406099999,2022-10,temperature,degC,23.31,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-10,relative_humidity,%,78.32,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44406099999,2022-11,temperature,degC,19.48,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-11,relative_humidity,%,76.66,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44406099999,2022-12,temperature,degC,15.29,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2022-12,relative_humidity,%,75.88,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-01,precipitation,mm,28.7,31,31,0,valid,needs >= 28 of 31 days
+44406099999,2023-01,temperature,degC,14.29,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-01,relative_humidity,%,75.23,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44406099999,2023-02,temperature,degC,17.23,28,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-02,relative_humidity,%,68.07,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44406099999,2023-03,temperature,degC,20.1,31,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-03,relative_humidity,%,67.83,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-04,precipitation,mm,,30,21,6,incomplete,needs >= 27 of 30 days
+44406099999,2023-04,temperature,degC,,30,19,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-04,relative_humidity,%,,30,21,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44406099999,2023-05,temperature,degC,,31,14,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-05,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44406099999,2023-06,temperature,degC,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-07,precipitation,mm,193.7,31,31,0,valid,needs >= 28 of 31 days
+44406099999,2023-07,temperature,degC,29.14,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-07,relative_humidity,%,78.68,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-08,precipitation,mm,187.6,31,31,0,valid,needs >= 28 of 31 days
+44406099999,2023-08,temperature,degC,29.07,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-08,relative_humidity,%,80.35,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-09,precipitation,mm,104.7,30,28,2,valid,needs >= 27 of 30 days
+44406099999,2023-09,temperature,degC,28.34,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-09,relative_humidity,%,78.97,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-10,precipitation,mm,14.2,31,30,1,valid,needs >= 28 of 31 days
+44406099999,2023-10,temperature,degC,23.99,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-10,relative_humidity,%,74.39,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44406099999,2023-11,temperature,degC,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44406099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44406099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44406099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44406099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44406099999,2024-04,temperature,degC,25.6,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-04,relative_humidity,%,40.67,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44406099999,2024-05,temperature,degC,28.86,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-05,relative_humidity,%,56.4,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-06,precipitation,mm,170.2,30,30,0,valid,needs >= 27 of 30 days
+44406099999,2024-06,temperature,degC,30.62,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-06,relative_humidity,%,59.34,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-07,precipitation,mm,,31,17,12,incomplete,needs >= 28 of 31 days
+44406099999,2024-07,temperature,degC,,31,13,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-07,relative_humidity,%,,31,17,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-08,precipitation,mm,,31,19,9,incomplete,needs >= 28 of 31 days
+44406099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-08,relative_humidity,%,,31,19,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44406099999,2024-09,temperature,degC,,30,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44406099999,2024-10,temperature,degC,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44406099999,2024-11,temperature,degC,,30,10,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44406099999,2024-12,temperature,degC,14.65,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44406099999,2024-12,relative_humidity,%,91.11,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-01,precipitation,mm,62.5,31,28,2,valid,needs >= 28 of 31 days
+44409099999,2022-01,temperature,degC,14.69,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-01,relative_humidity,%,90.47,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-02,precipitation,mm,36.6,28,26,1,valid,needs >= 26 of 28 days
+44409099999,2022-02,temperature,degC,16.05,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-02,relative_humidity,%,83.02,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44409099999,2022-03,temperature,degC,24.39,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-03,relative_humidity,%,63.45,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-04,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44409099999,2022-04,temperature,degC,28.6,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-04,relative_humidity,%,46.25,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44409099999,2022-05,temperature,degC,29.2,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-05,relative_humidity,%,58.62,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-06,precipitation,mm,166.0,30,28,1,valid,needs >= 27 of 30 days
+44409099999,2022-06,temperature,degC,31.62,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-06,relative_humidity,%,62.09,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44409099999,2022-07,temperature,degC,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-08,precipitation,mm,375.0,31,30,1,valid,needs >= 28 of 31 days
+44409099999,2022-08,temperature,degC,30.11,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-08,relative_humidity,%,79.55,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-09,precipitation,mm,612.0,30,27,3,valid,needs >= 27 of 30 days
+44409099999,2022-09,temperature,degC,28.75,30,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-09,relative_humidity,%,82.51,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-10,precipitation,mm,301.7,31,30,1,valid,needs >= 28 of 31 days
+44409099999,2022-10,temperature,degC,24.94,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-10,relative_humidity,%,76.72,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44409099999,2022-11,temperature,degC,,30,19,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-11,relative_humidity,%,75.91,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-12,precipitation,mm,0.8,31,28,2,valid,needs >= 28 of 31 days
+44409099999,2022-12,temperature,degC,17.12,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2022-12,relative_humidity,%,78.03,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-01,precipitation,mm,29.7,31,31,0,valid,needs >= 28 of 31 days
+44409099999,2023-01,temperature,degC,14.3,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-01,relative_humidity,%,83.19,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44409099999,2023-02,temperature,degC,,28,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-02,relative_humidity,%,72.03,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44409099999,2023-03,temperature,degC,22.32,31,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-03,relative_humidity,%,61.56,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-04,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44409099999,2023-04,temperature,degC,,30,14,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-04,relative_humidity,%,47.01,30,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44409099999,2023-05,temperature,degC,,31,14,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-05,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44409099999,2023-06,temperature,degC,,30,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-07,precipitation,mm,409.4,31,31,0,valid,needs >= 28 of 31 days
+44409099999,2023-07,temperature,degC,29.84,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-07,relative_humidity,%,80.11,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-08,precipitation,mm,550.2,31,31,0,valid,needs >= 28 of 31 days
+44409099999,2023-08,temperature,degC,29.39,31,21,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-08,relative_humidity,%,83.77,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-09,precipitation,mm,131.1,30,27,2,valid,needs >= 27 of 30 days
+44409099999,2023-09,temperature,degC,29.27,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-09,relative_humidity,%,77.88,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-10,precipitation,mm,31.3,31,30,1,valid,needs >= 28 of 31 days
+44409099999,2023-10,temperature,degC,25.78,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-10,relative_humidity,%,72.16,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44409099999,2023-11,temperature,degC,,30,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44409099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44409099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44409099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44409099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44409099999,2024-04,temperature,degC,28.61,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-04,relative_humidity,%,35.34,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44409099999,2024-05,temperature,degC,32.26,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-05,relative_humidity,%,49.76,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-06,precipitation,mm,62.4,30,30,0,valid,needs >= 27 of 30 days
+44409099999,2024-06,temperature,degC,33.8,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-06,relative_humidity,%,54.35,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44409099999,2024-07,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-08,precipitation,mm,,31,19,10,incomplete,needs >= 28 of 31 days
+44409099999,2024-08,temperature,degC,,31,16,10,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-08,relative_humidity,%,,31,19,10,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44409099999,2024-09,temperature,degC,,30,18,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44409099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44409099999,2024-11,temperature,degC,,30,11,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44409099999,2024-12,temperature,degC,16.75,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44409099999,2024-12,relative_humidity,%,77.39,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-01,precipitation,mm,43.4,31,28,2,valid,needs >= 28 of 31 days
+44416099999,2022-01,temperature,degC,13.92,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-01,relative_humidity,%,79.76,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-02,precipitation,mm,64.1,28,26,1,valid,needs >= 26 of 28 days
+44416099999,2022-02,temperature,degC,14.4,28,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-02,relative_humidity,%,76.04,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44416099999,2022-03,temperature,degC,22.33,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-03,relative_humidity,%,61.88,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-04,precipitation,mm,19.1,30,30,0,valid,needs >= 27 of 30 days
+44416099999,2022-04,temperature,degC,27.0,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-04,relative_humidity,%,48.69,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44416099999,2022-05,temperature,degC,,31,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-05,relative_humidity,%,70.37,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-06,precipitation,mm,199.2,30,28,1,valid,needs >= 27 of 30 days
+44416099999,2022-06,temperature,degC,29.06,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-06,relative_humidity,%,70.33,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44416099999,2022-07,temperature,degC,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-08,precipitation,mm,247.6,31,30,1,valid,needs >= 28 of 31 days
+44416099999,2022-08,temperature,degC,28.24,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-08,relative_humidity,%,83.94,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-09,precipitation,mm,,30,26,3,incomplete,needs >= 27 of 30 days
+44416099999,2022-09,temperature,degC,27.07,30,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-09,relative_humidity,%,85.43,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-10,precipitation,mm,395.8,31,29,1,valid,needs >= 28 of 31 days
+44416099999,2022-10,temperature,degC,22.16,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-10,relative_humidity,%,82.25,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44416099999,2022-11,temperature,degC,18.44,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-11,relative_humidity,%,78.41,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44416099999,2022-12,temperature,degC,14.27,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2022-12,relative_humidity,%,76.61,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-01,precipitation,mm,23.4,31,31,0,valid,needs >= 28 of 31 days
+44416099999,2023-01,temperature,degC,13.8,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-01,relative_humidity,%,72.02,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44416099999,2023-02,temperature,degC,17.15,28,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-02,relative_humidity,%,62.93,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44416099999,2023-03,temperature,degC,20.52,31,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-03,relative_humidity,%,60.74,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-04,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44416099999,2023-04,temperature,degC,,30,19,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-04,relative_humidity,%,48.71,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44416099999,2023-05,temperature,degC,,31,12,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-05,relative_humidity,%,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-06,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44416099999,2023-06,temperature,degC,,30,17,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-06,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-07,precipitation,mm,299.7,31,29,1,valid,needs >= 28 of 31 days
+44416099999,2023-07,temperature,degC,28.25,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-07,relative_humidity,%,82.01,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-08,precipitation,mm,703.4,31,30,1,valid,needs >= 28 of 31 days
+44416099999,2023-08,temperature,degC,27.4,31,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-08,relative_humidity,%,84.4,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-09,precipitation,mm,137.5,30,27,2,valid,needs >= 27 of 30 days
+44416099999,2023-09,temperature,degC,27.46,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-09,relative_humidity,%,80.04,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-10,precipitation,mm,16.0,31,30,1,valid,needs >= 28 of 31 days
+44416099999,2023-10,temperature,degC,23.19,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-10,relative_humidity,%,72.56,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44416099999,2023-11,temperature,degC,,30,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44416099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44416099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44416099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44416099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44416099999,2024-04,temperature,degC,26.81,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-04,relative_humidity,%,35.88,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44416099999,2024-05,temperature,degC,29.22,31,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-05,relative_humidity,%,52.35,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-06,precipitation,mm,130.3,30,29,1,valid,needs >= 27 of 30 days
+44416099999,2024-06,temperature,degC,30.8,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-06,relative_humidity,%,56.52,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-07,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44416099999,2024-07,temperature,degC,,31,14,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44416099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44416099999,2024-09,temperature,degC,,30,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44416099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44416099999,2024-11,temperature,degC,,30,11,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44416099999,2024-12,temperature,degC,14.03,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44416099999,2024-12,relative_humidity,%,74.45,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-01,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44418099999,2022-01,temperature,degC,14.75,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-01,relative_humidity,%,89.89,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-02,precipitation,mm,73.9,28,26,1,valid,needs >= 26 of 28 days
+44418099999,2022-02,temperature,degC,15.92,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-02,relative_humidity,%,77.38,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44418099999,2022-03,temperature,degC,24.64,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-03,relative_humidity,%,62.57,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-04,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44418099999,2022-04,temperature,degC,29.85,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-04,relative_humidity,%,51.84,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-05,precipitation,mm,,31,23,3,incomplete,needs >= 28 of 31 days
+44418099999,2022-05,temperature,degC,,31,17,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-05,relative_humidity,%,64.85,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-06,precipitation,mm,,30,26,2,incomplete,needs >= 27 of 30 days
+44418099999,2022-06,temperature,degC,32.65,30,21,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-06,relative_humidity,%,67.35,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44418099999,2022-07,temperature,degC,,31,17,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-08,precipitation,mm,172.6,31,30,1,valid,needs >= 28 of 31 days
+44418099999,2022-08,temperature,degC,30.09,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-08,relative_humidity,%,79.79,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-09,precipitation,mm,216.7,30,27,3,valid,needs >= 27 of 30 days
+44418099999,2022-09,temperature,degC,29.26,30,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-09,relative_humidity,%,81.86,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-10,precipitation,mm,530.0,31,29,1,valid,needs >= 28 of 31 days
+44418099999,2022-10,temperature,degC,24.97,31,22,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-10,relative_humidity,%,77.6,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-11,precipitation,mm,0.0,30,29,1,valid,needs >= 27 of 30 days
+44418099999,2022-11,temperature,degC,21.56,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-11,relative_humidity,%,75.7,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44418099999,2022-12,temperature,degC,16.97,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2022-12,relative_humidity,%,78.2,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-01,precipitation,mm,2.8,31,30,1,valid,needs >= 28 of 31 days
+44418099999,2023-01,temperature,degC,14.51,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-01,relative_humidity,%,81.25,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44418099999,2023-02,temperature,degC,18.96,28,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-02,relative_humidity,%,69.58,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44418099999,2023-03,temperature,degC,,31,18,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-03,relative_humidity,%,56.86,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-04,precipitation,mm,,30,19,6,incomplete,needs >= 27 of 30 days
+44418099999,2023-04,temperature,degC,,30,15,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-04,relative_humidity,%,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44418099999,2023-05,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-05,relative_humidity,%,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-06,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44418099999,2023-06,temperature,degC,,30,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-06,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-07,precipitation,mm,215.1,31,31,0,valid,needs >= 28 of 31 days
+44418099999,2023-07,temperature,degC,30.56,31,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-07,relative_humidity,%,78.21,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-08,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44418099999,2023-08,temperature,degC,29.02,31,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-08,relative_humidity,%,86.02,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-09,precipitation,mm,99.9,30,28,2,valid,needs >= 27 of 30 days
+44418099999,2023-09,temperature,degC,29.67,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-09,relative_humidity,%,80.84,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-10,precipitation,mm,22.0,31,29,1,valid,needs >= 28 of 31 days
+44418099999,2023-10,temperature,degC,26.24,31,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-10,relative_humidity,%,72.08,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-11,precipitation,mm,,30,22,5,incomplete,needs >= 27 of 30 days
+44418099999,2023-11,temperature,degC,,30,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-11,relative_humidity,%,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44418099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44418099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44418099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44418099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44418099999,2024-04,temperature,degC,29.13,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-04,relative_humidity,%,31.34,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44418099999,2024-05,temperature,degC,32.22,31,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-05,relative_humidity,%,48.52,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-06,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44418099999,2024-06,temperature,degC,,30,17,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-06,relative_humidity,%,53.29,30,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44418099999,2024-07,temperature,degC,,31,12,14,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44418099999,2024-08,temperature,degC,,31,15,10,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-09,precipitation,mm,,30,21,6,incomplete,needs >= 27 of 30 days
+44418099999,2024-09,temperature,degC,,30,15,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-09,relative_humidity,%,,30,21,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44418099999,2024-10,temperature,degC,,31,19,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44418099999,2024-11,temperature,degC,,30,10,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44418099999,2024-12,temperature,degC,16.9,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44418099999,2024-12,relative_humidity,%,74.26,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-01,precipitation,mm,19.6,31,28,2,valid,needs >= 28 of 31 days
+44424099999,2022-01,temperature,degC,4.84,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-01,relative_humidity,%,60.06,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-02,precipitation,mm,,28,23,2,incomplete,needs >= 26 of 28 days
+44424099999,2022-02,temperature,degC,5.02,28,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-02,relative_humidity,%,54.29,28,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-03,precipitation,mm,0.0,31,29,1,valid,needs >= 28 of 31 days
+44424099999,2022-03,temperature,degC,12.61,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-03,relative_humidity,%,41.69,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-04,precipitation,mm,17.0,30,28,2,valid,needs >= 27 of 30 days
+44424099999,2022-04,temperature,degC,15.47,30,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-04,relative_humidity,%,44.04,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-05,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44424099999,2022-05,temperature,degC,,31,20,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-05,relative_humidity,%,57.57,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-06,precipitation,mm,,30,26,1,incomplete,needs >= 27 of 30 days
+44424099999,2022-06,temperature,degC,20.99,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-06,relative_humidity,%,54.54,30,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-07,precipitation,mm,,31,18,5,incomplete,needs >= 28 of 31 days
+44424099999,2022-07,temperature,degC,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-07,relative_humidity,%,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-08,precipitation,mm,156.1,31,30,1,valid,needs >= 28 of 31 days
+44424099999,2022-08,temperature,degC,20.62,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-08,relative_humidity,%,73.89,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-09,precipitation,mm,,30,26,3,incomplete,needs >= 27 of 30 days
+44424099999,2022-09,temperature,degC,19.08,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-09,relative_humidity,%,74.52,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-10,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44424099999,2022-10,temperature,degC,12.82,31,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-10,relative_humidity,%,59.75,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-11,precipitation,mm,0.0,30,29,1,valid,needs >= 27 of 30 days
+44424099999,2022-11,temperature,degC,9.76,30,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-11,relative_humidity,%,44.74,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44424099999,2022-12,temperature,degC,6.76,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2022-12,relative_humidity,%,37.56,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-01,precipitation,mm,20.5,31,30,1,valid,needs >= 28 of 31 days
+44424099999,2023-01,temperature,degC,4.97,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-01,relative_humidity,%,48.42,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44424099999,2023-02,temperature,degC,,28,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-02,relative_humidity,%,39.58,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-03,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44424099999,2023-03,temperature,degC,,31,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-03,relative_humidity,%,54.17,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-04,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44424099999,2023-04,temperature,degC,12.75,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-04,relative_humidity,%,47.03,30,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44424099999,2023-05,temperature,degC,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-05,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-06,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44424099999,2023-06,temperature,degC,,30,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-06,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-07,precipitation,mm,130.6,31,31,0,valid,needs >= 28 of 31 days
+44424099999,2023-07,temperature,degC,21.18,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-07,relative_humidity,%,75.68,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-08,precipitation,mm,226.4,31,30,1,valid,needs >= 28 of 31 days
+44424099999,2023-08,temperature,degC,20.76,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-08,relative_humidity,%,75.83,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-09,precipitation,mm,48.2,30,27,2,valid,needs >= 27 of 30 days
+44424099999,2023-09,temperature,degC,19.89,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-09,relative_humidity,%,69.2,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-10,precipitation,mm,8.5,31,30,1,valid,needs >= 28 of 31 days
+44424099999,2023-10,temperature,degC,13.99,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-10,relative_humidity,%,56.41,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44424099999,2023-11,temperature,degC,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44424099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44424099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44424099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44424099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-04,precipitation,mm,,30,23,4,incomplete,needs >= 27 of 30 days
+44424099999,2024-04,temperature,degC,14.68,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-04,relative_humidity,%,38.2,30,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44424099999,2024-05,temperature,degC,18.93,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-05,relative_humidity,%,48.62,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-06,precipitation,mm,26.8,30,30,0,valid,needs >= 27 of 30 days
+44424099999,2024-06,temperature,degC,22.01,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-06,relative_humidity,%,49.31,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44424099999,2024-07,temperature,degC,,31,14,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44424099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44424099999,2024-09,temperature,degC,,30,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44424099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44424099999,2024-11,temperature,degC,,30,9,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-11,relative_humidity,%,,30,12,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-12,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44424099999,2024-12,temperature,degC,6.0,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44424099999,2024-12,relative_humidity,%,43.0,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-01,precipitation,mm,32.1,31,28,2,valid,needs >= 28 of 31 days
+44429099999,2022-01,temperature,degC,14.06,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-01,relative_humidity,%,78.65,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-02,precipitation,mm,42.3,28,26,1,valid,needs >= 26 of 28 days
+44429099999,2022-02,temperature,degC,15.02,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-02,relative_humidity,%,71.11,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44429099999,2022-03,temperature,degC,22.97,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-03,relative_humidity,%,57.45,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-04,precipitation,mm,0.0,30,29,1,valid,needs >= 27 of 30 days
+44429099999,2022-04,temperature,degC,27.7,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-04,relative_humidity,%,45.41,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-05,precipitation,mm,,31,25,3,incomplete,needs >= 28 of 31 days
+44429099999,2022-05,temperature,degC,,31,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-05,relative_humidity,%,62.42,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-06,precipitation,mm,309.7,30,28,1,valid,needs >= 27 of 30 days
+44429099999,2022-06,temperature,degC,28.81,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-06,relative_humidity,%,70.5,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44429099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-08,precipitation,mm,261.7,31,30,1,valid,needs >= 28 of 31 days
+44429099999,2022-08,temperature,degC,27.8,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-08,relative_humidity,%,79.56,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-09,precipitation,mm,368.4,30,27,3,valid,needs >= 27 of 30 days
+44429099999,2022-09,temperature,degC,26.37,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-09,relative_humidity,%,82.45,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-10,precipitation,mm,438.3,31,30,1,valid,needs >= 28 of 31 days
+44429099999,2022-10,temperature,degC,22.92,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-10,relative_humidity,%,76.8,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-11,precipitation,mm,0.0,30,29,1,valid,needs >= 27 of 30 days
+44429099999,2022-11,temperature,degC,19.44,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-11,relative_humidity,%,72.72,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44429099999,2022-12,temperature,degC,15.94,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2022-12,relative_humidity,%,74.56,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-01,precipitation,mm,0.3,31,31,0,valid,needs >= 28 of 31 days
+44429099999,2023-01,temperature,degC,15.13,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-01,relative_humidity,%,69.24,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44429099999,2023-02,temperature,degC,,28,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-02,relative_humidity,%,63.52,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44429099999,2023-03,temperature,degC,,31,20,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-03,relative_humidity,%,56.71,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-04,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44429099999,2023-04,temperature,degC,25.07,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-04,relative_humidity,%,43.85,30,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44429099999,2023-05,temperature,degC,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-05,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44429099999,2023-06,temperature,degC,,30,16,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-07,precipitation,mm,274.4,31,29,1,valid,needs >= 28 of 31 days
+44429099999,2023-07,temperature,degC,27.7,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-07,relative_humidity,%,81.44,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-08,precipitation,mm,295.9,31,31,0,valid,needs >= 28 of 31 days
+44429099999,2023-08,temperature,degC,26.62,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-08,relative_humidity,%,86.02,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-09,precipitation,mm,228.1,30,28,2,valid,needs >= 27 of 30 days
+44429099999,2023-09,temperature,degC,26.9,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-09,relative_humidity,%,82.17,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-10,precipitation,mm,44.2,31,30,1,valid,needs >= 28 of 31 days
+44429099999,2023-10,temperature,degC,23.37,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-10,relative_humidity,%,72.97,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44429099999,2023-11,temperature,degC,,30,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44429099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44429099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44429099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44429099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44429099999,2024-04,temperature,degC,27.79,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-04,relative_humidity,%,31.59,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44429099999,2024-05,temperature,degC,29.05,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-05,relative_humidity,%,55.99,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-06,precipitation,mm,291.9,30,30,0,valid,needs >= 27 of 30 days
+44429099999,2024-06,temperature,degC,30.54,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-06,relative_humidity,%,65.41,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-07,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44429099999,2024-07,temperature,degC,,31,15,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-07,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44429099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44429099999,2024-09,temperature,degC,,30,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44429099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44429099999,2024-11,temperature,degC,,30,11,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44429099999,2024-12,temperature,degC,15.09,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44429099999,2024-12,relative_humidity,%,75.44,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-01,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44434099999,2022-01,temperature,degC,14.14,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-01,relative_humidity,%,76.3,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-02,precipitation,mm,,28,25,1,incomplete,needs >= 26 of 28 days
+44434099999,2022-02,temperature,degC,14.53,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-02,relative_humidity,%,73.56,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-03,precipitation,mm,41.1,31,29,1,valid,needs >= 28 of 31 days
+44434099999,2022-03,temperature,degC,22.4,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-03,relative_humidity,%,61.27,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-04,precipitation,mm,142.1,30,28,1,valid,needs >= 27 of 30 days
+44434099999,2022-04,temperature,degC,24.76,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-04,relative_humidity,%,70.81,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44434099999,2022-05,temperature,degC,,31,20,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-05,relative_humidity,%,74.9,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-06,precipitation,mm,779.9,30,28,1,valid,needs >= 27 of 30 days
+44434099999,2022-06,temperature,degC,26.69,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-06,relative_humidity,%,79.38,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44434099999,2022-07,temperature,degC,,31,17,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-08,precipitation,mm,1061.1,31,30,1,valid,needs >= 28 of 31 days
+44434099999,2022-08,temperature,degC,27.27,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-08,relative_humidity,%,80.07,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-09,precipitation,mm,,30,25,3,incomplete,needs >= 27 of 30 days
+44434099999,2022-09,temperature,degC,25.88,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-09,relative_humidity,%,83.36,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-10,precipitation,mm,349.8,31,30,1,valid,needs >= 28 of 31 days
+44434099999,2022-10,temperature,degC,22.68,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-10,relative_humidity,%,76.84,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44434099999,2022-11,temperature,degC,19.23,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-11,relative_humidity,%,75.58,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44434099999,2022-12,temperature,degC,15.56,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2022-12,relative_humidity,%,75.76,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-01,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44434099999,2023-01,temperature,degC,14.65,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-01,relative_humidity,%,69.91,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-02,precipitation,mm,,28,22,3,incomplete,needs >= 26 of 28 days
+44434099999,2023-02,temperature,degC,17.91,28,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-02,relative_humidity,%,64.94,28,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44434099999,2023-03,temperature,degC,,31,20,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-03,relative_humidity,%,64.51,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-04,precipitation,mm,,30,21,3,incomplete,needs >= 27 of 30 days
+44434099999,2023-04,temperature,degC,,30,17,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-04,relative_humidity,%,56.47,30,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44434099999,2023-05,temperature,degC,,31,14,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-05,relative_humidity,%,,31,16,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-06,precipitation,mm,,30,21,6,incomplete,needs >= 27 of 30 days
+44434099999,2023-06,temperature,degC,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-06,relative_humidity,%,,30,21,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-07,precipitation,mm,820.3,31,30,1,valid,needs >= 28 of 31 days
+44434099999,2023-07,temperature,degC,26.6,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-07,relative_humidity,%,80.71,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-08,precipitation,mm,809.1,31,31,0,valid,needs >= 28 of 31 days
+44434099999,2023-08,temperature,degC,26.36,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-08,relative_humidity,%,85.22,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-09,precipitation,mm,306.7,30,28,2,valid,needs >= 27 of 30 days
+44434099999,2023-09,temperature,degC,26.18,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-09,relative_humidity,%,80.48,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-10,precipitation,mm,283.3,31,30,1,valid,needs >= 28 of 31 days
+44434099999,2023-10,temperature,degC,22.53,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-10,relative_humidity,%,76.39,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44434099999,2023-11,temperature,degC,,30,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44434099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44434099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44434099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44434099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-04,precipitation,mm,,30,25,3,incomplete,needs >= 27 of 30 days
+44434099999,2024-04,temperature,degC,24.84,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-04,relative_humidity,%,46.35,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-05,precipitation,mm,268.4,31,28,2,valid,needs >= 28 of 31 days
+44434099999,2024-05,temperature,degC,25.5,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-05,relative_humidity,%,67.71,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-06,precipitation,mm,684.6,30,30,0,valid,needs >= 27 of 30 days
+44434099999,2024-06,temperature,degC,26.79,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-06,relative_humidity,%,78.3,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44434099999,2024-07,temperature,degC,,31,14,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44434099999,2024-08,temperature,degC,,31,16,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-09,precipitation,mm,,30,19,6,incomplete,needs >= 27 of 30 days
+44434099999,2024-09,temperature,degC,,30,14,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-09,relative_humidity,%,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44434099999,2024-10,temperature,degC,,31,18,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-11,precipitation,mm,,30,12,7,incomplete,needs >= 27 of 30 days
+44434099999,2024-11,temperature,degC,,30,10,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-11,relative_humidity,%,,30,12,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44434099999,2024-12,temperature,degC,14.12,31,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44434099999,2024-12,relative_humidity,%,78.19,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-01,precipitation,mm,25.2,31,28,2,valid,needs >= 28 of 31 days
+44438099999,2022-01,temperature,degC,15.31,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-01,relative_humidity,%,88.49,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-02,precipitation,mm,,28,25,1,incomplete,needs >= 26 of 28 days
+44438099999,2022-02,temperature,degC,16.78,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-02,relative_humidity,%,73.52,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44438099999,2022-03,temperature,degC,25.02,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-03,relative_humidity,%,58.83,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-04,precipitation,mm,10.6,30,28,1,valid,needs >= 27 of 30 days
+44438099999,2022-04,temperature,degC,29.95,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-04,relative_humidity,%,56.94,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-05,precipitation,mm,,31,24,3,incomplete,needs >= 28 of 31 days
+44438099999,2022-05,temperature,degC,,31,19,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-05,relative_humidity,%,58.75,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-06,precipitation,mm,152.3,30,27,2,valid,needs >= 27 of 30 days
+44438099999,2022-06,temperature,degC,30.42,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-06,relative_humidity,%,69.74,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44438099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-08,precipitation,mm,234.8,31,30,1,valid,needs >= 28 of 31 days
+44438099999,2022-08,temperature,degC,30.43,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-08,relative_humidity,%,75.23,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-09,precipitation,mm,,30,26,3,incomplete,needs >= 27 of 30 days
+44438099999,2022-09,temperature,degC,28.89,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-09,relative_humidity,%,81.03,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-10,precipitation,mm,195.4,31,28,2,valid,needs >= 28 of 31 days
+44438099999,2022-10,temperature,degC,26.39,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-10,relative_humidity,%,72.97,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44438099999,2022-11,temperature,degC,21.97,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-11,relative_humidity,%,67.76,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44438099999,2022-12,temperature,degC,17.78,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2022-12,relative_humidity,%,75.28,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-01,precipitation,mm,0.0,31,31,0,valid,needs >= 28 of 31 days
+44438099999,2023-01,temperature,degC,14.52,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-01,relative_humidity,%,83.43,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-02,precipitation,mm,,28,22,4,incomplete,needs >= 26 of 28 days
+44438099999,2023-02,temperature,degC,,28,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-02,relative_humidity,%,73.4,28,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-03,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44438099999,2023-03,temperature,degC,,31,20,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-03,relative_humidity,%,53.25,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-04,precipitation,mm,,30,21,3,incomplete,needs >= 27 of 30 days
+44438099999,2023-04,temperature,degC,,30,17,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-04,relative_humidity,%,42.45,30,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-05,precipitation,mm,,31,15,11,incomplete,needs >= 28 of 31 days
+44438099999,2023-05,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-05,relative_humidity,%,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44438099999,2023-06,temperature,degC,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-07,precipitation,mm,392.7,31,29,1,valid,needs >= 28 of 31 days
+44438099999,2023-07,temperature,degC,30.42,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-07,relative_humidity,%,76.52,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-08,precipitation,mm,355.0,31,30,1,valid,needs >= 28 of 31 days
+44438099999,2023-08,temperature,degC,29.58,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-08,relative_humidity,%,81.65,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-09,precipitation,mm,,30,26,2,incomplete,needs >= 27 of 30 days
+44438099999,2023-09,temperature,degC,29.94,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-09,relative_humidity,%,76.9,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-10,precipitation,mm,111.0,31,30,1,valid,needs >= 28 of 31 days
+44438099999,2023-10,temperature,degC,26.34,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-10,relative_humidity,%,70.55,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44438099999,2023-11,temperature,degC,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44438099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44438099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44438099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44438099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-04,precipitation,mm,,30,23,4,incomplete,needs >= 27 of 30 days
+44438099999,2024-04,temperature,degC,30.47,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-04,relative_humidity,%,27.84,30,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44438099999,2024-05,temperature,degC,31.46,31,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-05,relative_humidity,%,52.07,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-06,precipitation,mm,231.7,30,29,1,valid,needs >= 27 of 30 days
+44438099999,2024-06,temperature,degC,31.91,30,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-06,relative_humidity,%,66.9,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44438099999,2024-07,temperature,degC,,31,12,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44438099999,2024-08,temperature,degC,,31,14,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-09,precipitation,mm,,30,21,6,incomplete,needs >= 27 of 30 days
+44438099999,2024-09,temperature,degC,,30,13,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-09,relative_humidity,%,,30,21,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44438099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44438099999,2024-11,temperature,degC,,30,10,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-12,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44438099999,2024-12,temperature,degC,17.43,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44438099999,2024-12,relative_humidity,%,70.93,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-01,precipitation,mm,6.1,31,28,2,valid,needs >= 28 of 31 days
+44449099999,2022-01,temperature,degC,15.39,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-01,relative_humidity,%,86.54,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-02,precipitation,mm,44.7,28,26,1,valid,needs >= 26 of 28 days
+44449099999,2022-02,temperature,degC,17.17,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-02,relative_humidity,%,72.54,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44449099999,2022-03,temperature,degC,24.61,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-03,relative_humidity,%,58.66,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-04,precipitation,mm,97.4,30,28,1,valid,needs >= 27 of 30 days
+44449099999,2022-04,temperature,degC,28.9,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-04,relative_humidity,%,63.61,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44449099999,2022-05,temperature,degC,,31,19,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-05,relative_humidity,%,69.54,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-06,precipitation,mm,244.5,30,27,1,valid,needs >= 27 of 30 days
+44449099999,2022-06,temperature,degC,29.68,30,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-06,relative_humidity,%,79.86,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44449099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-08,precipitation,mm,301.2,31,30,1,valid,needs >= 28 of 31 days
+44449099999,2022-08,temperature,degC,29.78,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-08,relative_humidity,%,79.59,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-09,precipitation,mm,,30,25,3,incomplete,needs >= 27 of 30 days
+44449099999,2022-09,temperature,degC,29.01,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-09,relative_humidity,%,82.72,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-10,precipitation,mm,84.0,31,28,2,valid,needs >= 28 of 31 days
+44449099999,2022-10,temperature,degC,26.23,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-10,relative_humidity,%,72.58,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44449099999,2022-11,temperature,degC,22.15,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-11,relative_humidity,%,71.28,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44449099999,2022-12,temperature,degC,18.12,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2022-12,relative_humidity,%,75.27,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-01,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44449099999,2023-01,temperature,degC,14.29,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-01,relative_humidity,%,83.59,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44449099999,2023-02,temperature,degC,,28,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-02,relative_humidity,%,71.7,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44449099999,2023-03,temperature,degC,23.1,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-03,relative_humidity,%,58.36,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-04,precipitation,mm,,30,20,6,incomplete,needs >= 27 of 30 days
+44449099999,2023-04,temperature,degC,,30,17,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-04,relative_humidity,%,,30,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-05,precipitation,mm,,31,17,11,incomplete,needs >= 28 of 31 days
+44449099999,2023-05,temperature,degC,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-05,relative_humidity,%,,31,17,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44449099999,2023-06,temperature,degC,,30,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-07,precipitation,mm,468.4,31,31,0,valid,needs >= 28 of 31 days
+44449099999,2023-07,temperature,degC,30.2,31,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-07,relative_humidity,%,85.57,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-08,precipitation,mm,501.9,31,30,1,valid,needs >= 28 of 31 days
+44449099999,2023-08,temperature,degC,29.0,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-08,relative_humidity,%,88.29,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-09,precipitation,mm,12.2,30,27,2,valid,needs >= 27 of 30 days
+44449099999,2023-09,temperature,degC,29.82,30,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-09,relative_humidity,%,82.84,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-10,precipitation,mm,46.8,31,30,1,valid,needs >= 28 of 31 days
+44449099999,2023-10,temperature,degC,26.28,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-10,relative_humidity,%,78.41,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-11,precipitation,mm,,30,22,5,incomplete,needs >= 27 of 30 days
+44449099999,2023-11,temperature,degC,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-11,relative_humidity,%,,30,22,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44449099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44449099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44449099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44449099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-04,precipitation,mm,,30,21,4,incomplete,needs >= 27 of 30 days
+44449099999,2024-04,temperature,degC,28.74,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-04,relative_humidity,%,51.16,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44449099999,2024-05,temperature,degC,30.28,31,21,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-05,relative_humidity,%,69.64,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-06,precipitation,mm,173.6,30,30,0,valid,needs >= 27 of 30 days
+44449099999,2024-06,temperature,degC,30.87,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-06,relative_humidity,%,81.19,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44449099999,2024-07,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44449099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44449099999,2024-09,temperature,degC,,30,14,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44449099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44449099999,2024-11,temperature,degC,,30,10,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44449099999,2024-12,temperature,degC,17.52,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44449099999,2024-12,relative_humidity,%,84.85,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-01,precipitation,mm,5.1,31,30,1,valid,needs >= 28 of 31 days
+44454099999,2022-01,temperature,degC,11.12,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-01,relative_humidity,%,75.57,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-02,precipitation,mm,52.1,28,28,0,valid,needs >= 26 of 28 days
+44454099999,2022-02,temperature,degC,11.95,28,28,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-02,relative_humidity,%,70.65,28,28,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-03,precipitation,mm,9.5,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2022-03,temperature,degC,20.33,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-03,relative_humidity,%,59.52,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-04,precipitation,mm,14.2,30,29,1,valid,needs >= 27 of 30 days
+44454099999,2022-04,temperature,degC,23.01,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-04,relative_humidity,%,59.74,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-05,precipitation,mm,293.3,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2022-05,temperature,degC,22.38,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-05,relative_humidity,%,76.4,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-06,precipitation,mm,393.3,30,30,0,valid,needs >= 27 of 30 days
+44454099999,2022-06,temperature,degC,24.19,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-06,relative_humidity,%,82.83,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-07,precipitation,mm,,31,27,3,incomplete,needs >= 28 of 31 days
+44454099999,2022-07,temperature,degC,24.94,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-07,relative_humidity,%,83.39,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-08,precipitation,mm,312.0,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2022-08,temperature,degC,25.13,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-08,relative_humidity,%,81.44,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-09,precipitation,mm,194.7,30,27,3,valid,needs >= 27 of 30 days
+44454099999,2022-09,temperature,degC,24.01,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-09,relative_humidity,%,83.22,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-10,precipitation,mm,136.5,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2022-10,temperature,degC,20.55,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-10,relative_humidity,%,73.95,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44454099999,2022-11,temperature,degC,16.24,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-11,relative_humidity,%,71.17,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-12,precipitation,mm,0.0,31,29,1,valid,needs >= 28 of 31 days
+44454099999,2022-12,temperature,degC,12.95,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2022-12,relative_humidity,%,69.87,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-01,precipitation,mm,0.0,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2023-01,temperature,degC,11.89,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-01,relative_humidity,%,60.7,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-02,precipitation,mm,3.5,28,26,2,valid,needs >= 26 of 28 days
+44454099999,2023-02,temperature,degC,15.2,28,28,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-02,relative_humidity,%,61.25,28,28,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-03,precipitation,mm,,31,27,4,incomplete,needs >= 28 of 31 days
+44454099999,2023-03,temperature,degC,17.69,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-03,relative_humidity,%,62.1,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-04,precipitation,mm,77.7,30,27,2,valid,needs >= 27 of 30 days
+44454099999,2023-04,temperature,degC,20.38,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-04,relative_humidity,%,52.68,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-05,precipitation,mm,129.2,31,28,3,valid,needs >= 28 of 31 days
+44454099999,2023-05,temperature,degC,21.36,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-05,relative_humidity,%,65.3,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-06,precipitation,mm,,30,26,4,incomplete,needs >= 27 of 30 days
+44454099999,2023-06,temperature,degC,25.32,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-06,relative_humidity,%,69.21,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-07,precipitation,mm,388.1,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2023-07,temperature,degC,25.09,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-07,relative_humidity,%,84.19,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-08,precipitation,mm,383.6,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2023-08,temperature,degC,24.48,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-08,relative_humidity,%,85.7,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-09,precipitation,mm,264.9,30,29,1,valid,needs >= 27 of 30 days
+44454099999,2023-09,temperature,degC,24.74,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-09,relative_humidity,%,79.05,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-10,precipitation,mm,79.7,31,31,0,valid,needs >= 28 of 31 days
+44454099999,2023-10,temperature,degC,20.47,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-10,relative_humidity,%,75.02,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-11,precipitation,mm,,30,25,5,incomplete,needs >= 27 of 30 days
+44454099999,2023-11,temperature,degC,16.76,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-11,relative_humidity,%,72.2,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44454099999,2023-12,temperature,degC,13.53,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2023-12,relative_humidity,%,70.87,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44454099999,2024-01,temperature,degC,11.48,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-01,relative_humidity,%,67.02,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44454099999,2024-02,temperature,degC,12.78,29,29,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-02,relative_humidity,%,60.2,29,29,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44454099999,2024-03,temperature,degC,,31,25,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-03,relative_humidity,%,59.17,31,27,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-04,precipitation,mm,2.5,30,27,3,valid,needs >= 27 of 30 days
+44454099999,2024-04,temperature,degC,22.85,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-04,relative_humidity,%,42.93,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-05,precipitation,mm,66.7,31,30,1,valid,needs >= 28 of 31 days
+44454099999,2024-05,temperature,degC,23.85,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-05,relative_humidity,%,64.11,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-06,precipitation,mm,211.2,30,30,0,valid,needs >= 27 of 30 days
+44454099999,2024-06,temperature,degC,26.09,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-06,relative_humidity,%,73.83,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-07,precipitation,mm,,31,22,9,incomplete,needs >= 28 of 31 days
+44454099999,2024-07,temperature,degC,25.05,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-07,relative_humidity,%,87.65,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-08,precipitation,mm,,31,25,6,incomplete,needs >= 28 of 31 days
+44454099999,2024-08,temperature,degC,25.05,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-08,relative_humidity,%,86.69,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-09,precipitation,mm,,30,26,3,incomplete,needs >= 27 of 30 days
+44454099999,2024-09,temperature,degC,24.21,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-09,relative_humidity,%,83.58,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44454099999,2024-10,temperature,degC,21.98,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-10,relative_humidity,%,77.12,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-11,precipitation,mm,,30,19,6,incomplete,needs >= 27 of 30 days
+44454099999,2024-11,temperature,degC,17.15,30,26,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-11,relative_humidity,%,74.59,30,26,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-12,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44454099999,2024-12,temperature,degC,12.09,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44454099999,2024-12,relative_humidity,%,69.07,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-01,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44462099999,2022-01,temperature,degC,10.6,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-01,relative_humidity,%,79.17,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-02,precipitation,mm,,28,24,1,incomplete,needs >= 26 of 28 days
+44462099999,2022-02,temperature,degC,10.9,28,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-02,relative_humidity,%,78.67,28,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-03,precipitation,mm,29.2,31,29,1,valid,needs >= 28 of 31 days
+44462099999,2022-03,temperature,degC,18.61,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-03,relative_humidity,%,65.46,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-04,precipitation,mm,48.1,30,29,1,valid,needs >= 27 of 30 days
+44462099999,2022-04,temperature,degC,20.65,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-04,relative_humidity,%,69.23,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-05,precipitation,mm,,31,25,3,incomplete,needs >= 28 of 31 days
+44462099999,2022-05,temperature,degC,,31,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-05,relative_humidity,%,80.08,31,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-06,precipitation,mm,289.3,30,28,1,valid,needs >= 27 of 30 days
+44462099999,2022-06,temperature,degC,21.09,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-06,relative_humidity,%,92.4,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44462099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-08,precipitation,mm,180.5,31,30,1,valid,needs >= 28 of 31 days
+44462099999,2022-08,temperature,degC,22.03,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-08,relative_humidity,%,90.52,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-09,precipitation,mm,,30,26,3,incomplete,needs >= 27 of 30 days
+44462099999,2022-09,temperature,degC,21.03,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-09,relative_humidity,%,89.92,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-10,precipitation,mm,76.8,31,30,1,valid,needs >= 28 of 31 days
+44462099999,2022-10,temperature,degC,19.0,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-10,relative_humidity,%,77.0,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44462099999,2022-11,temperature,degC,15.87,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-11,relative_humidity,%,71.06,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-12,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44462099999,2022-12,temperature,degC,12.95,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2022-12,relative_humidity,%,71.0,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-01,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44462099999,2023-01,temperature,degC,12.44,31,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-01,relative_humidity,%,66.94,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44462099999,2023-02,temperature,degC,14.0,28,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-02,relative_humidity,%,72.34,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44462099999,2023-03,temperature,degC,16.23,31,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-03,relative_humidity,%,76.9,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-04,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44462099999,2023-04,temperature,degC,,30,16,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-04,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44462099999,2023-05,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-05,relative_humidity,%,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-06,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44462099999,2023-06,temperature,degC,,30,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-06,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-07,precipitation,mm,537.7,31,31,0,valid,needs >= 28 of 31 days
+44462099999,2023-07,temperature,degC,21.82,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-07,relative_humidity,%,90.29,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-08,precipitation,mm,406.4,31,30,1,valid,needs >= 28 of 31 days
+44462099999,2023-08,temperature,degC,21.26,31,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-08,relative_humidity,%,92.71,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-09,precipitation,mm,181.4,30,28,2,valid,needs >= 27 of 30 days
+44462099999,2023-09,temperature,degC,21.39,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-09,relative_humidity,%,85.84,30,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-10,precipitation,mm,27.0,31,30,1,valid,needs >= 28 of 31 days
+44462099999,2023-10,temperature,degC,18.4,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-10,relative_humidity,%,78.93,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44462099999,2023-11,temperature,degC,,30,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44462099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44462099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44462099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44462099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44462099999,2024-04,temperature,degC,21.32,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-04,relative_humidity,%,52.04,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-05,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44462099999,2024-05,temperature,degC,,31,20,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-05,relative_humidity,%,69.13,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-06,precipitation,mm,194.6,30,28,1,valid,needs >= 27 of 30 days
+44462099999,2024-06,temperature,degC,22.5,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-06,relative_humidity,%,84.76,30,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44462099999,2024-07,temperature,degC,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44462099999,2024-08,temperature,degC,,31,15,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44462099999,2024-09,temperature,degC,,30,15,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44462099999,2024-10,temperature,degC,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-11,precipitation,mm,,30,12,7,incomplete,needs >= 27 of 30 days
+44462099999,2024-11,temperature,degC,,30,10,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-11,relative_humidity,%,,30,12,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44462099999,2024-12,temperature,degC,11.97,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44462099999,2024-12,relative_humidity,%,70.36,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-01,precipitation,mm,20.6,31,28,2,valid,needs >= 28 of 31 days
+44474099999,2022-01,temperature,degC,9.44,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-01,relative_humidity,%,75.16,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-02,precipitation,mm,,28,25,1,incomplete,needs >= 26 of 28 days
+44474099999,2022-02,temperature,degC,9.68,28,24,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-02,relative_humidity,%,74.17,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-03,precipitation,mm,29.0,31,30,1,valid,needs >= 28 of 31 days
+44474099999,2022-03,temperature,degC,16.92,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-03,relative_humidity,%,59.7,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-04,precipitation,mm,143.3,30,29,1,valid,needs >= 27 of 30 days
+44474099999,2022-04,temperature,degC,19.4,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-04,relative_humidity,%,71.06,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-05,precipitation,mm,,31,26,3,incomplete,needs >= 28 of 31 days
+44474099999,2022-05,temperature,degC,19.2,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-05,relative_humidity,%,79.1,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-06,precipitation,mm,401.5,30,27,1,valid,needs >= 27 of 30 days
+44474099999,2022-06,temperature,degC,20.99,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-06,relative_humidity,%,89.24,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44474099999,2022-07,temperature,degC,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-08,precipitation,mm,254.3,31,30,1,valid,needs >= 28 of 31 days
+44474099999,2022-08,temperature,degC,22.35,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-08,relative_humidity,%,85.4,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-09,precipitation,mm,253.0,30,27,3,valid,needs >= 27 of 30 days
+44474099999,2022-09,temperature,degC,20.94,30,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-09,relative_humidity,%,87.62,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-10,precipitation,mm,137.6,31,30,1,valid,needs >= 28 of 31 days
+44474099999,2022-10,temperature,degC,18.06,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-10,relative_humidity,%,73.38,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-11,precipitation,mm,0.0,30,30,0,valid,needs >= 27 of 30 days
+44474099999,2022-11,temperature,degC,14.32,30,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-11,relative_humidity,%,68.58,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-12,precipitation,mm,0.0,31,28,2,valid,needs >= 28 of 31 days
+44474099999,2022-12,temperature,degC,12.4,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2022-12,relative_humidity,%,74.36,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-01,precipitation,mm,0.0,31,31,0,valid,needs >= 28 of 31 days
+44474099999,2023-01,temperature,degC,10.38,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-01,relative_humidity,%,65.78,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44474099999,2023-02,temperature,degC,,28,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-02,relative_humidity,%,69.05,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-03,precipitation,mm,,31,25,4,incomplete,needs >= 28 of 31 days
+44474099999,2023-03,temperature,degC,14.51,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-03,relative_humidity,%,67.27,31,25,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-04,precipitation,mm,,30,23,3,incomplete,needs >= 27 of 30 days
+44474099999,2023-04,temperature,degC,,30,19,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-04,relative_humidity,%,62.98,30,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44474099999,2023-05,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-05,relative_humidity,%,,31,16,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44474099999,2023-06,temperature,degC,,30,18,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-07,precipitation,mm,347.0,31,31,0,valid,needs >= 28 of 31 days
+44474099999,2023-07,temperature,degC,22.02,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-07,relative_humidity,%,87.24,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-08,precipitation,mm,407.3,31,31,0,valid,needs >= 28 of 31 days
+44474099999,2023-08,temperature,degC,21.65,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-08,relative_humidity,%,89.25,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-09,precipitation,mm,132.5,30,28,2,valid,needs >= 27 of 30 days
+44474099999,2023-09,temperature,degC,21.72,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-09,relative_humidity,%,80.84,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-10,precipitation,mm,41.4,31,30,1,valid,needs >= 28 of 31 days
+44474099999,2023-10,temperature,degC,17.94,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-10,relative_humidity,%,72.9,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44474099999,2023-11,temperature,degC,,30,20,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44474099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44474099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44474099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44474099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44474099999,2024-04,temperature,degC,18.85,30,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-04,relative_humidity,%,57.2,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44474099999,2024-05,temperature,degC,20.71,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-05,relative_humidity,%,71.85,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-06,precipitation,mm,463.3,30,30,0,valid,needs >= 27 of 30 days
+44474099999,2024-06,temperature,degC,21.92,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-06,relative_humidity,%,85.01,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44474099999,2024-07,temperature,degC,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44474099999,2024-08,temperature,degC,,31,14,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44474099999,2024-09,temperature,degC,,30,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-10,precipitation,mm,,31,24,7,incomplete,needs >= 28 of 31 days
+44474099999,2024-10,temperature,degC,,31,21,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-10,relative_humidity,%,,31,24,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44474099999,2024-11,temperature,degC,,30,10,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44474099999,2024-12,temperature,degC,11.31,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44474099999,2024-12,relative_humidity,%,68.3,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-01,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44477099999,2022-01,temperature,degC,13.85,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-01,relative_humidity,%,71.17,31,26,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-02,precipitation,mm,17.3,28,26,1,valid,needs >= 26 of 28 days
+44477099999,2022-02,temperature,degC,13.67,28,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-02,relative_humidity,%,70.95,28,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-03,precipitation,mm,23.4,31,30,1,valid,needs >= 28 of 31 days
+44477099999,2022-03,temperature,degC,20.95,31,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-03,relative_humidity,%,58.97,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-04,precipitation,mm,76.2,30,30,0,valid,needs >= 27 of 30 days
+44477099999,2022-04,temperature,degC,,30,19,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-04,relative_humidity,%,72.8,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-05,precipitation,mm,,31,23,3,incomplete,needs >= 28 of 31 days
+44477099999,2022-05,temperature,degC,,31,15,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-05,relative_humidity,%,77.17,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-06,precipitation,mm,,30,26,2,incomplete,needs >= 27 of 30 days
+44477099999,2022-06,temperature,degC,,30,19,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-06,relative_humidity,%,86.88,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44477099999,2022-07,temperature,degC,,31,17,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-08,precipitation,mm,124.4,31,30,1,valid,needs >= 28 of 31 days
+44477099999,2022-08,temperature,degC,24.95,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-08,relative_humidity,%,83.23,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-09,precipitation,mm,117.7,30,27,3,valid,needs >= 27 of 30 days
+44477099999,2022-09,temperature,degC,24.01,30,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-09,relative_humidity,%,86.39,30,27,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-10,precipitation,mm,85.0,31,28,1,valid,needs >= 28 of 31 days
+44477099999,2022-10,temperature,degC,21.4,31,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-10,relative_humidity,%,78.29,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-11,precipitation,mm,0.0,30,29,1,valid,needs >= 27 of 30 days
+44477099999,2022-11,temperature,degC,18.03,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-11,relative_humidity,%,73.87,30,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-12,precipitation,mm,0.0,31,29,1,valid,needs >= 28 of 31 days
+44477099999,2022-12,temperature,degC,15.54,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2022-12,relative_humidity,%,75.35,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-01,precipitation,mm,0.0,31,31,0,valid,needs >= 28 of 31 days
+44477099999,2023-01,temperature,degC,13.99,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-01,relative_humidity,%,69.84,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-02,precipitation,mm,,28,23,3,incomplete,needs >= 26 of 28 days
+44477099999,2023-02,temperature,degC,16.22,28,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-02,relative_humidity,%,69.47,28,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-03,precipitation,mm,,31,24,4,incomplete,needs >= 28 of 31 days
+44477099999,2023-03,temperature,degC,18.87,31,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-03,relative_humidity,%,67.21,31,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-04,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44477099999,2023-04,temperature,degC,,30,18,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-04,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-05,precipitation,mm,,31,16,11,incomplete,needs >= 28 of 31 days
+44477099999,2023-05,temperature,degC,,31,13,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-05,relative_humidity,%,,31,15,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-06,precipitation,mm,,30,23,6,incomplete,needs >= 27 of 30 days
+44477099999,2023-06,temperature,degC,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-06,relative_humidity,%,,30,23,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-07,precipitation,mm,78.4,31,28,1,valid,needs >= 28 of 31 days
+44477099999,2023-07,temperature,degC,25.13,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-07,relative_humidity,%,85.06,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-08,precipitation,mm,180.9,31,31,0,valid,needs >= 28 of 31 days
+44477099999,2023-08,temperature,degC,24.92,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-08,relative_humidity,%,86.65,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-09,precipitation,mm,76.0,30,27,2,valid,needs >= 27 of 30 days
+44477099999,2023-09,temperature,degC,25.23,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-09,relative_humidity,%,81.31,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-10,precipitation,mm,40.1,31,30,1,valid,needs >= 28 of 31 days
+44477099999,2023-10,temperature,degC,22.19,31,29,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-10,relative_humidity,%,77.18,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44477099999,2023-11,temperature,degC,,30,17,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44477099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44477099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44477099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44477099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-04,precipitation,mm,,30,24,4,incomplete,needs >= 27 of 30 days
+44477099999,2024-04,temperature,degC,23.13,30,22,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-04,relative_humidity,%,55.36,30,24,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-05,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44477099999,2024-05,temperature,degC,24.0,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-05,relative_humidity,%,71.22,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-06,precipitation,mm,92.0,30,30,0,valid,needs >= 27 of 30 days
+44477099999,2024-06,temperature,degC,25.14,30,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-06,relative_humidity,%,81.55,30,30,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-07,precipitation,mm,,31,16,12,incomplete,needs >= 28 of 31 days
+44477099999,2024-07,temperature,degC,,31,13,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-07,relative_humidity,%,,31,16,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44477099999,2024-08,temperature,degC,,31,17,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-09,precipitation,mm,,30,22,6,incomplete,needs >= 27 of 30 days
+44477099999,2024-09,temperature,degC,,30,16,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-09,relative_humidity,%,,30,22,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-10,precipitation,mm,,31,23,7,incomplete,needs >= 28 of 31 days
+44477099999,2024-10,temperature,degC,,31,19,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-10,relative_humidity,%,,31,23,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-11,precipitation,mm,,30,11,7,incomplete,needs >= 27 of 30 days
+44477099999,2024-11,temperature,degC,,30,9,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-11,relative_humidity,%,,30,11,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-12,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44477099999,2024-12,temperature,degC,15.05,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44477099999,2024-12,relative_humidity,%,67.27,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-01,precipitation,mm,,31,25,3,incomplete,needs >= 28 of 31 days
+44478099999,2022-01,temperature,degC,16.38,31,21,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-01,relative_humidity,%,81.0,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-02,precipitation,mm,,28,25,1,incomplete,needs >= 26 of 28 days
+44478099999,2022-02,temperature,degC,16.85,28,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-02,relative_humidity,%,68.29,28,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-03,precipitation,mm,0.0,31,30,1,valid,needs >= 28 of 31 days
+44478099999,2022-03,temperature,degC,24.81,31,28,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-03,relative_humidity,%,57.6,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-04,precipitation,mm,,30,26,2,incomplete,needs >= 27 of 30 days
+44478099999,2022-04,temperature,degC,28.09,30,22,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-04,relative_humidity,%,67.81,30,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-05,precipitation,mm,,31,23,3,incomplete,needs >= 28 of 31 days
+44478099999,2022-05,temperature,degC,28.19,31,21,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-05,relative_humidity,%,70.86,31,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-06,precipitation,mm,,30,26,1,incomplete,needs >= 27 of 30 days
+44478099999,2022-06,temperature,degC,,30,17,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-06,relative_humidity,%,82.57,30,26,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-07,precipitation,mm,,31,19,5,incomplete,needs >= 28 of 31 days
+44478099999,2022-07,temperature,degC,,31,18,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-07,relative_humidity,%,,31,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-08,precipitation,mm,,31,26,3,incomplete,needs >= 28 of 31 days
+44478099999,2022-08,temperature,degC,30.18,31,23,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-08,relative_humidity,%,78.2,31,26,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-09,precipitation,mm,,30,24,3,incomplete,needs >= 27 of 30 days
+44478099999,2022-09,temperature,degC,,30,19,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-09,relative_humidity,%,84.29,30,24,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-10,precipitation,mm,131.5,31,28,2,valid,needs >= 28 of 31 days
+44478099999,2022-10,temperature,degC,26.48,31,25,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-10,relative_humidity,%,75.95,31,28,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-11,precipitation,mm,,30,24,2,incomplete,needs >= 27 of 30 days
+44478099999,2022-11,temperature,degC,22.72,30,21,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-11,relative_humidity,%,66.18,30,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-12,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44478099999,2022-12,temperature,degC,19.04,31,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2022-12,relative_humidity,%,70.0,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-01,precipitation,mm,,31,25,2,incomplete,needs >= 28 of 31 days
+44478099999,2023-01,temperature,degC,15.19,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-01,relative_humidity,%,77.32,31,25,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-02,precipitation,mm,,28,22,3,incomplete,needs >= 26 of 28 days
+44478099999,2023-02,temperature,degC,,28,18,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-02,relative_humidity,%,71.25,28,22,3,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-03,precipitation,mm,,31,23,5,incomplete,needs >= 28 of 31 days
+44478099999,2023-03,temperature,degC,,31,21,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-03,relative_humidity,%,,31,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-04,precipitation,mm,,30,20,4,incomplete,needs >= 27 of 30 days
+44478099999,2023-04,temperature,degC,,30,16,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-04,relative_humidity,%,57.06,30,20,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-05,precipitation,mm,,31,15,12,incomplete,needs >= 28 of 31 days
+44478099999,2023-05,temperature,degC,,31,10,14,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-05,relative_humidity,%,,31,15,12,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-06,precipitation,mm,,30,20,6,incomplete,needs >= 27 of 30 days
+44478099999,2023-06,temperature,degC,,30,15,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-06,relative_humidity,%,,30,19,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-07,precipitation,mm,467.4,31,30,1,valid,needs >= 28 of 31 days
+44478099999,2023-07,temperature,degC,29.77,31,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-07,relative_humidity,%,81.9,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-08,precipitation,mm,438.5,31,31,0,valid,needs >= 28 of 31 days
+44478099999,2023-08,temperature,degC,29.37,31,25,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-08,relative_humidity,%,86.0,31,31,0,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-09,precipitation,mm,233.6,30,27,2,valid,needs >= 27 of 30 days
+44478099999,2023-09,temperature,degC,,30,19,3,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-09,relative_humidity,%,81.89,30,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-10,precipitation,mm,41.5,31,30,1,valid,needs >= 28 of 31 days
+44478099999,2023-10,temperature,degC,26.38,31,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-10,relative_humidity,%,76.48,31,30,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-11,precipitation,mm,,30,23,5,incomplete,needs >= 27 of 30 days
+44478099999,2023-11,temperature,degC,,30,19,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-11,relative_humidity,%,,30,23,5,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-12,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44478099999,2023-12,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2023-12,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-01,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44478099999,2024-01,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-01,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-02,precipitation,mm,,29,0,29,no data,needs >= 27 of 29 days
+44478099999,2024-02,temperature,degC,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-02,relative_humidity,%,,29,0,29,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-03,precipitation,mm,,31,0,31,no data,needs >= 28 of 31 days
+44478099999,2024-03,temperature,degC,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-03,relative_humidity,%,,31,0,31,no data,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-04,precipitation,mm,,30,23,4,incomplete,needs >= 27 of 30 days
+44478099999,2024-04,temperature,degC,,30,19,4,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-04,relative_humidity,%,52.71,30,23,4,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-05,precipitation,mm,,31,27,2,incomplete,needs >= 28 of 31 days
+44478099999,2024-05,temperature,degC,29.47,31,23,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-05,relative_humidity,%,66.27,31,27,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-06,precipitation,mm,468.8,30,28,1,valid,needs >= 27 of 30 days
+44478099999,2024-06,temperature,degC,28.88,30,24,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-06,relative_humidity,%,79.94,30,27,1,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-07,precipitation,mm,,31,18,11,incomplete,needs >= 28 of 31 days
+44478099999,2024-07,temperature,degC,,31,11,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-07,relative_humidity,%,,31,18,11,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-08,precipitation,mm,,31,20,9,incomplete,needs >= 28 of 31 days
+44478099999,2024-08,temperature,degC,,31,16,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-08,relative_humidity,%,,31,20,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-09,precipitation,mm,,30,20,6,incomplete,needs >= 27 of 30 days
+44478099999,2024-09,temperature,degC,,30,12,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-09,relative_humidity,%,,30,20,6,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-10,precipitation,mm,,31,23,7,incomplete,needs >= 28 of 31 days
+44478099999,2024-10,temperature,degC,,31,18,9,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-10,relative_humidity,%,,31,23,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-11,precipitation,mm,,30,13,7,incomplete,needs >= 27 of 30 days
+44478099999,2024-11,temperature,degC,,30,11,8,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-11,relative_humidity,%,,30,13,7,incomplete,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-12,precipitation,mm,,31,26,2,incomplete,needs >= 28 of 31 days
+44478099999,2024-12,temperature,degC,18.26,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive
+44478099999,2024-12,relative_humidity,%,82.38,31,26,2,valid,WMO: <= 10 missing days and <= 4 consecutive

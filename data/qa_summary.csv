@@ -1,0 +1,5 @@
+check,action,values_affected
+tmin_derived_from_too_few_reports,set missing,904
+tmax_derived_from_too_few_reports,set missing,674
+precip_flag_I_no_report,set missing,148
+missing_value_code,set missing,75
