@@ -1,0 +1,16 @@
+station_id,name,icao,lat,lon,elev_m,history_offset_km,coord_precision,record_begins,record_ends
+44404099999,Dadeldhura,,29.3,80.583333,1848.0,0.032,whole arc-minute (up to ~1 km off),19780301,20250824
+44406099999,Dipayal,,29.25,80.95,617.0,0.0,whole arc-minute (up to ~1 km off),20051012,20250824
+44409099999,Dhangadhi (Atariya),,28.8,80.55,187.0,0.0,whole arc-minute (up to ~1 km off),20051012,20250824
+44416099999,Surkhet,VNSK,28.6,81.616667,720.0,0.033,whole arc-minute (up to ~1 km off),19761101,20250824
+44418099999,Nepalgunj Airport,,28.1,81.666667,165.0,0.033,whole arc-minute (up to ~1 km off),20051012,20250824
+44424099999,Jumla,VNJL,29.283333,82.166667,2300.0,0.049,whole arc-minute (up to ~1 km off),19750913,20250824
+44429099999,Dang,,28.05,82.5,634.0,0.0,whole arc-minute (up to ~1 km off),20051012,20250824
+44434099999,Pokhara,VNPK,28.200539,83.981283,826.61,0.058,surveyed (sub-arc-second),19770207,20250824
+44438099999,Bhairahawa / Gautam Buddha,VNBW,27.505703,83.41625,109.11,0.041,surveyed (sub-arc-second),19770302,20250824
+44449099999,Simara,VNSI,27.159456,84.980122,137.16,0.052,surveyed (sub-arc-second),19740110,20250824
+44454099999,Tribhuvan Intl,VNKT,27.696592,85.359192,1338.07,0.049,surveyed (sub-arc-second),19730521,20250824
+44462099999,Okhaldhunga,,27.3,86.5,1720.0,0.0,whole arc-minute (up to ~1 km off),19761101,20250824
+44474099999,Taplejung,VNTJ,27.35,87.666667,1732.0,0.033,whole arc-minute (up to ~1 km off),19780701,20250824
+44477099999,Dhankuta,,26.983333,87.35,1210.0,0.037,whole arc-minute (up to ~1 km off),19761101,20250824
+44478099999,Biratnagar,VNVT,26.481453,87.264036,71.93,0.05,surveyed (sub-arc-second),19770208,20250824
